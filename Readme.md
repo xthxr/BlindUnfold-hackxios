@@ -94,29 +94,6 @@ Extensively tested with industry-standard screen readers:
 
 ---
 
-## 📋 Table of Contents
-
-- [Overview](#-overview)
-- [Demo Video](#-demo-video)
-- [Screenshots](#️-screenshots)
-- [Impact Metrics](#-impact-metrics)
-- [Testing & Validation](#-testing--validation)
-- [Features](#-features)
-- [Technology Stack](#-technology-stack)
-- [Architecture](#-architecture)
-- [Installation](#-installation)
-- [Configuration](#-configuration)
-- [Usage](#-usage)
-- [API Reference](#-api-reference)
-- [Accessibility Features](#-accessibility-features)
-- [Performance Optimization](#-performance-optimization)
-- [Contributing](#-contributing)
-- [Roadmap](#-roadmap)
-- [License](#-license)
-- [Acknowledgments](#-acknowledgments)
-
----
-
 ## 🌟 Overview
 
 **BlindUnfold** is a high-performance, accessible Progressive Web App (PWA) designed to empower visually impaired individuals by providing real-time text recognition, scene analysis, and handwriting reading capabilities.  Built with React and powered by Google's Gemini AI and Tesseract OCR, this application transforms visual information into audio feedback. 
